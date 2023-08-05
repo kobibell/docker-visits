@@ -1,4 +1,4 @@
-# Multile Docker Container
+# Multiple Docker Container
 
 This repository contains a Docker web application that utilize the docker-compose to connect multiple docker containers. Follow the instructions below to build and run the application.
 
